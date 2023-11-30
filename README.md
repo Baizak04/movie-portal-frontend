@@ -1,5 +1,5 @@
 # movie-portal-frontend
-# Movie Friends Project
+## Movie Friends Project
 
 Hello 👋, movie enthusiasts! Welcome to my "Movie Friends" mini-project on GitHub. This project is crafted using HTML and CSS for the layout. Here, you can choose your favorite movies.
 
