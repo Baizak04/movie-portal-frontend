@@ -14,3 +14,11 @@ Hello 👋, movie enthusiasts! Welcome to my "Movie Friends" mini-project on Git
 - **Participation:** If you're interested in contributing or suggesting improvements, I'm always open to your involvement!
 
 Feel free to join the project and share your ideas. Thanks for checking out "Movie Friends"! 🎬✨
+
+### Cloning the Project
+
+To clone the "Movie Friends" project to your local machine, use the following command in your terminal:
+
+```bash
+git clone https://github.com/Baizak04/movie-portal-frontend.git
+Make sure to replace your-username with your GitHub username. Happy coding! 🚀
